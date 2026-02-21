@@ -37,7 +37,7 @@ https://x.com/finnrobot9652
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=ebgPiJINi-k" target="_blank">
-    <img src="https://github.com/user-attachments/assets/de3b9f9c-50aa-49f0-82c6-3d2b938f4670" width="90%" />
+    <img src="finrobot/login.png" width="90%" />
   </a>
 </div>
 
