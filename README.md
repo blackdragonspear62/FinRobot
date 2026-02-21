@@ -32,7 +32,7 @@
 [![](https://dcbadge.limes.pink/api/server/trsr8SXpW5?cb=1)](https://discord.gg/trsr8SXpW5)
 
 ## 🎬 FinRobot Pro — An AI Powered Equity Research Platform  
-🌐 https://finrobot.ai/
+🌐 https://www.finrobot.pro/
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=ebgPiJINi-k" target="_blank">
